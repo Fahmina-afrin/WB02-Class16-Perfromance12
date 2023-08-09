@@ -1,0 +1,27 @@
+a{
+    color:black
+    text-decoration-line:
+    underline;
+    text-decoration-style:wavy;
+    text-decoration-color:red;
+    text-transform: capitalize;
+}
+p{
+    text-indent:50px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    
+}
+
+#p2{
+   line-height: 1.5px;
+    white-space: pre;  
+}
+
+
+#p1{
+    text-shadow:0px 0px 6px red;
+    }
+#p3{
+    font-family:Borel,cursive;
+}
